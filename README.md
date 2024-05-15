@@ -33,7 +33,7 @@ Ensure you have Node.js and npm installed on your machine.
 
     ```bash
     NEXT_PUBLIC_API_URL=baseurlapi
-NEXT_PUBLIC_API_KEY=yourtoken
+    NEXT_PUBLIC_API_KEY=yourtoken
     ```
 
 ## Usage
