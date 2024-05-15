@@ -1,0 +1,75 @@
+/* BodoniModa */
+
+@font-face {
+    font-family: 'BodoniModa';
+    font-style: normal;
+    src: url('../assets/font/BodoniModa/BodoniModa_9pt-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'BodoniModa-Italic';
+    font-style: italic;
+    src: url('../assets/font/BodoniModa/BodoniModa_9pt-Italic.ttf');
+}
+
+@font-face {
+    font-family: 'BodoniModa-Bold';
+    font-style: normal;
+    src: url('../assets/font/BodoniModa/BodoniModa_9pt-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'BodoniModa-SemiBold';
+    font-style: normal;
+    src: url('../assets/font/BodoniModa/BodoniModa_9pt-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: 'BodoniModa-ExtraBold';
+    font-style: normal;
+    src: url('../assets/font/BodoniModa/BodoniModa_9pt-ExtraBold.ttf');
+}
+
+@font-face {
+    font-family: 'BodoniModa-Medium';
+    font-style: normal;
+    src: url('../assets/font/BodoniModa/BodoniModa_9pt-Medium.ttf');
+}
+
+
+/* Inter */
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    src: url('../assets/font/Inter/Inter-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Inter-Bold';
+    font-style: normal;
+    src: url('../assets/font/Inter/Inter-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Inter-SemiBold';
+    font-style: normal;
+    src: url('../assets/font/Inter/Inter-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: 'Inter-ExtraBold';
+    font-style: normal;
+    src: url('../assets/font/Inter/Inter-ExtraBold.ttf');
+}
+
+@font-face {
+    font-family: 'Inter-Light';
+    font-style: normal;
+    src: url('../assets/font/Inter/Inter-Light.ttf');
+}
+
+@font-face {
+    font-family: 'Inter-Medium';
+    font-style: normal;
+    src: url('../assets/font/Inter/Inter-Medium.ttf');
+}
